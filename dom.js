@@ -86,3 +86,7 @@ console.log(spanHi.getAttribute("id"))
 console.log(` The value of spanBi id is: ${spanBi.id}`)
 spanBi.removeAttribute('id') // --> removes the spanBi id
 console.log(` The value of spanBi id is: ${spanBi.id}`)
+
+
+
+// Mr. Gardner practice Html code
